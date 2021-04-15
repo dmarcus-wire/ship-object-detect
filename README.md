@@ -5,9 +5,8 @@ This repo is setup up to provide notebooks that work with either Kubeflow or Ope
 ## Current Notebooks:
 |notebook|description|
 |-|-|
-|ship-model-object-all-in-1.ipynb|all in 1 notebook from setup to inferenc|
-|ship-model-build-1of2.ipynb|splits-up all-in-1, setup to save|
-|ship-model-deploy-2of2.ipynb|splits-up all-in-1, deploy to inference|
+|ship-model-build-1of2.ipynb|performs setup notebook to save model|
+|ship-model-deploy-2of2.ipynb|performs import model to inference on new data|
 
 # Folders
 |||
